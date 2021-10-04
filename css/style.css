@@ -1,0 +1,190 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background: rgb(94, 92, 92);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Montserrat;
+}
+.wrapper {
+  background: grey;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.side-bar {
+  background: #1e2939;
+  max-width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+.me-photo {
+width: 370px;
+}
+.about-me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.contacts-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contacts-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.contacts-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #c0bdb6;
+}
+.contacts-type {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+.tech-skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+.tech-ckills-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+}
+.tech-skills-name {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #bd711a;
+  margin-left: 15px;
+}
+.tech-skills-text {
+  color: #c0bdb6;
+}
+.soft-skills-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.soft-slills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+.soft-skills-name {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #bd711a;
+  margin-left: 15px;
+}
+.soft-skills-color {
+  color: #c0bdb6;
+}
+.proffesion {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.opisanie {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-top: 24px;
+}
+.info-container {
+  margin-bottom: 65px;
+}
+.big-word {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+.project-sait {
+  color: indigo;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.dots {
+  font-weight: 200;
+}
+.project-program {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: lightcoral;
+}
+.chislo {
+  font-weight: 700;
+  margin-left: 17px;
+}
+.project-container {
+  margin-bottom: 55px;
+}
+.name-works {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15;
+}
+.word-color {
+  color: lightcoral;
+  margin-top: 15px;
+}
+.years-to-work {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(39, 34, 34);
+}
+.razdel {
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+.works-skills {
+  margin-top: 14px;
+  margin-bottom: 30px;
+}
+.work-everyday {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.name-university {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 5px;
+}
